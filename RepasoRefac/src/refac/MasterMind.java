@@ -246,4 +246,8 @@ pedirJugada (i);
 			heridos = heridos + numSComb - numSM;
 		return heridos;
 	}
+	private void syso() {
+		// TODO Auto-generated method stub
+
+	}
 }
